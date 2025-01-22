@@ -8,7 +8,7 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "@types/etag": "^1.8.0",
+    "@types/etag": "^1.8.3",
     "@types/node": "^14.6.3",
     "etag": "^1.8.1",
     "nodemon": "^2.0.4",
